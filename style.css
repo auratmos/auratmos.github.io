@@ -1,0 +1,30 @@
+body {
+    background-color: #101010;
+    color: #f0f0f0;
+    font-family: sans-serif;
+    padding: 2.5% 15%
+}
+
+#header, footer {
+    font-family: monospace;
+}
+
+header {
+    font-size: 200%;
+}
+
+header a, nav a, footer a {
+    text-decoration: none;
+}
+
+footer {
+    text-align: right;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover {
+    font-weight: bold;
+}
